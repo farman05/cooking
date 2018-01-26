@@ -1,0 +1,12 @@
+.addRecipe > * {
+    width:100%
+}
+.mat-form-field{
+    width: 80%
+}
+.removeBtn{
+    float: right;
+    width: 18%;
+    line-height: 3;
+    font-size: 20px;
+}
